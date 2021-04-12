@@ -355,6 +355,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |Java, Angular, React, Android etc.
 |https://squarehealth.com.bd[Website]
 
+|Soft BD Ltd.
+|8th & 15th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
+|PHP & MySQL,Node.js,JavaScript (React, Angular),iOS,Android, React Native
+|https://softbdltd.com/[Website]
+
 |TechnoVista Limited
 |House: 4, Road: 9/B, Nikunja–1, Khilkhet, Dhaka, Bangladesh.
 |.NET, C#, Java, J2EE, Spring, PHP, Laravel, CodeIgniter, WordPress, MySQL, PostgreSQL, SQL Server, Oracle, HTML, SCSS, LESS, jQuery, VueJS, Android, Ionic
